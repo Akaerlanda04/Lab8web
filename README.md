@@ -8,3 +8,6 @@ Kelas   : TI.20.B.1
 
 # Pratikum 8 Pemgrograman web
 
+* Persiapan
+
+![img](gambar/png.1.PNG)
