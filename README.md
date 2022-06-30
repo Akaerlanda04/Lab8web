@@ -8,6 +8,11 @@ Kelas   : TI.20.B.1
 
 # Pratikum 8 Pemgrograman web
 
-* Persiapan
+<b>Persiapan</b>
+
+Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah database server menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.
+
+<b>1. Menjalankan MySQL Server</b>
 
 ![img](gambar/png.1.PNG)
+
