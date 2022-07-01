@@ -53,6 +53,7 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 ![img](gambar/png.7.PNG)
 
 5. Membuat file koneksi database
+
 Buat file baru dengan nama koneksi.php
 
 ![img](gambar/png.8.PNG)
