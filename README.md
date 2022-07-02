@@ -93,7 +93,7 @@ Buat file baru dengan nama "ubah.php"
 ![img](gambar/png.17.PNG)
 ![img](gambar/png.18.PNG)
 
-lalu buka dengan chrome.tapi pas outputnya seperti "ada yang salah" tapi setelah saya periksa kode input nya "tidak ada yang salah"
+lalu lihat hasil outputnya dengan membuka chrome / browser.
 
 Berikut output nya : 
 
