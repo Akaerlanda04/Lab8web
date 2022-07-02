@@ -98,14 +98,14 @@ lalu buka dengan chrome.tapi pas outputnya seperti "ada yang salah" tapi setelah
 Berikut output nya : 
 
 ![img](gambar/png.19.PNG)
-
+![img](gambar/png.20.PNG)
 <b>Menghapus Data (Delete)</b>
 
 Buat file baru dengan nama hapus.php
 
 Berikut output nya :
 
-![img](gambar/png.20.PNG)
+![img](gambar/png.21.PNG)
 
 # Terima kasih 
 
