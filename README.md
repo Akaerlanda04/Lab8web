@@ -106,7 +106,7 @@ Buat file baru dengan nama hapus.php
 
 Berikut output nya :
 
-![img](gambar/png.20.PNG)
+![img](gambar/png.21.PNG)
 
 # Terima kasih 
 
